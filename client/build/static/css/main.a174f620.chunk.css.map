@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACI,wBAAoC,CACpC,gKACJ","file":"main.a174f620.chunk.css","sourcesContent":["body {\r\n    background-color: rgba(0,183,255, 1);\r\n    background-image: url(\"https://images.unsplash.com/photo-1558350283-8269d86681f2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Nnx8fGVufDB8fHx8&w=1000&q=80\");\r\n}"]}
